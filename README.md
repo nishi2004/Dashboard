@@ -12,10 +12,6 @@ Key Features
 *Order Analysis: Analyze order statuses, quantities, and regional breakdowns.
 *Interactive Filters: Drill through by date, product, or region for detailed insights.
 
-Data Sources
-*Orders.csv: Contains order-level information such as order date, region, and status.
-*Details.csv: Includes detailed data on products, quantities, and prices.
-
 Usage Instructions
 *Clone the repository and download the .pbix file.
 *Ensure that both Orders.csv and Details.csv files are available locally.
